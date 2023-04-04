@@ -1,0 +1,19 @@
+{
+  "name": "testando-comando---cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "cy": "cypress run"
+  },
+  "keywords": [],
+  "author": "Daniel Melo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.8.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
